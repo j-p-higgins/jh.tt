@@ -1,0 +1,6 @@
+jh.tt
+
+This is a selection of patches built in puredata for mxmxmx's Terminal Tedium eurorack module.
+
+Patches:
+tt_chord.pd - a clone of the Qu-Bit Chord module
